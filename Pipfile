@@ -9,6 +9,7 @@ mangum = "0.17.0"
 numpy = "1.25.2"
 pandas = "1.5.3"
 geopandas = "*" #Since its using geopandas i suggest using custom images or Docker
+rasterstats = "*"
 
 [dev-packages]
 python-dotenv = "1.0.0"
